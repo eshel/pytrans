@@ -1,0 +1,6 @@
+
+def isHello(x):
+    if x == 3 or y > 8:
+        this.humus = "chips"
+    else:
+        raise NotAllowed()
